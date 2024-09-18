@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1047355236192",
+    "project_id": "we-chat-a3450",
+    "storage_bucket": "we-chat-a3450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047355236192:android:99f9515212a997e17fc805",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_harsh_rp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047355236192-g3reogqh1omqrt5nuvs2173cs9pa81mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0yerXNEuMEFMnoS-7vkL42Y2az5-83A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047355236192-g3reogqh1omqrt5nuvs2173cs9pa81mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047355236192-87rb0l8034n6hf03nq7fcfhpfr5dppr2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatAppHarshRp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
